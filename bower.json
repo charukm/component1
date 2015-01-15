@@ -1,0 +1,21 @@
+{
+  "name": "component1",
+  "version": "0.0.1",
+  "homepage": "https://github.com/charukm/component1",
+  "authors": [
+    "charukm <charuk.m@hirepro.in>"
+  ],
+  "description": "comp",
+  "main": "hello.js",
+  "keywords": [
+    "hello"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
